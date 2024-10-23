@@ -1,0 +1,5 @@
+.DS_Store
+/composer/local-cc-dev/*
+!composer/local-cc-dev/requirements.txt
+__pycache__
+setup.sh
